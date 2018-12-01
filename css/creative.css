@@ -44,7 +44,7 @@ h6 {
 }
 
 .bg-primary {
-  background-color: #F05F40 !important;
+  background-color: black !important;
 }
 
 .bg-dark {
@@ -189,7 +189,8 @@ header.masthead hr {
 }
 
 header.masthead h1 {
-  font-size: 2rem;
+  font-size: 3rem;
+
 }
 
 header.masthead p {
@@ -288,7 +289,7 @@ header.masthead p {
 }
 
 .text-primary {
-  color: #F05F40 !important;
+  color: black !important;
 }
 
 .btn {
